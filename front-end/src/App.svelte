@@ -1,7 +1,7 @@
 <script>
     import { tick } from "svelte";
     import SvelteMarkdown from "svelte-markdown";
-    import botImage from "./assets/images/bot.jpeg";
+    import botImage from "./assets/images/bot.jpg";
     import meImage from "./assets/images/me.jpeg";
     import MdLink from "./lib/MdLink.svelte";
     import External from "./lib/External.svelte";
